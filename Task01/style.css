@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+body {
+	font-family: sans-serif:
+}
+h1 {
+	font-size: 21px;
+}
+h2 {
+	font-size: 18px;
+}
+p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+body {
+	line-height: 1.7;
+}
+.lead {
+	font-weight: bold;
+}
+.headline {
+	text-align: center;
+}
+.headline {
+	color: #002a5a;
+}
+.item {
+	margin: 16px;
+	border: 1px solid #ccc;
+	padding: 8px;
+	width: 300px;
+	background: #fafafa;
+}
+#Task1-a a{
+	color: #0073dc;
+}
+#Task1-a a:link {
+	color: #0073dc;
+}
+#Task1-a a:visited {
+	color: #02314c;
+}
+#Task1-a a:hover {
+	color: #b7dbf2;
+}
+#Task1-a a:active {
+	color: #4ca4e8;
+} 
+#Task2-a a{
+        color: #0073dc;
+}
+#Task2-a a:link {
+        color: #0073dc;
+}
+#Task2-a a:visited {
+        color: #02314c;
+}
+#Task2-a a:hover {
+        color: #b7dbf2;
+}
+#Task2-a a:active {
+        color: #4ca4e8;
+}
+
